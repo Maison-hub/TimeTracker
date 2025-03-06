@@ -15,8 +15,7 @@ export function useAPI() {
         baseURL: apiBase,
         headers: {
             'Content-Type': 'application/json',
-            // ...(token && { 'Authorization': `key=${token}` })
-            'Authorization': `key=${apikey}`
+            'Authorization': `key=${userStore.user?.token}`,
         }
     });
 
