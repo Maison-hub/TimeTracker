@@ -19,9 +19,7 @@ This project is a time tracking application built using Vue.js. It allows users 
 
 ## Demo Video
 
-<video width="" height="240" controls>
-  <source src="./demo.mp4" type="video/mp4">
-</video>
+https://github.com/user-attachments/assets/85ded7fc-ffc5-4914-9599-186201299a40
 
 ## Acknowledgements
 
