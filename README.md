@@ -23,11 +23,6 @@ This project is a time tracking application built using Vue.js. It allows users 
   <source src="./demo.mp4" type="video/mp4">
 </video>
 
-## License
-
-This project is licensed under the MIT License.
-
 ## Acknowledgements
 
 This project was developed as part of a student assignment. Special thanks to the instructors and peers for their support and guidance.
-```
